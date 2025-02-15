@@ -17,8 +17,8 @@ const Whoweare = () => {
             fontWeight={600}
           >
             The fastest-growing church in Redemption City.
-            \n
-            \n
+            {"\n"}
+            {"\n"}
             On a Mission to Unleash Potentials.
           </Text>
         </Box>

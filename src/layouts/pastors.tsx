@@ -209,7 +209,7 @@ const Pastors = () => {
               Brother's Cord
             </Text>
           </Box>
-          <Box className="mb-5">
+          {/* <Box className="mb-5">
             <img src="/pastor13.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
@@ -223,8 +223,8 @@ const Pastors = () => {
             >
               Asst. Sister's Cord
             </Text>
-          </Box>
-          <Box className="mb-5">
+          </Box> */}
+          {/* <Box className="mb-5">
             <img src="/pastor14.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
@@ -236,7 +236,7 @@ const Pastors = () => {
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
               className="font-medium"
             ></Text>
-          </Box>
+          </Box> */}
           <Box className="mb-5">
             <img src="/pastor15.png" />
             <Text
@@ -258,7 +258,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Rachel Owolabi
+              Olayinka
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
