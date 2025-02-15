@@ -31,13 +31,13 @@ const Footer = () => {
             Follow Us On
           </Text>
           <Flex gap={5} mt={3}>
-            <Link to="https://www.facebook.com/rccgmps" target="_blank" rel="noopener noreferrer" >
+            <Link href="https://www.facebook.com/rccgmps" target="_blank" rel="noopener noreferrer" >
               <Image width={"40px"} src="/facebook.svg"/>
             </Link>
-            <Link to="https://www.youtube.com/@rccgmps" target="_blank" rel="noopener noreferrer" >
+            <Link href="https://www.youtube.com/@rccgmps" target="_blank" rel="noopener noreferrer" >
               <Image width={"40px"} src="/youtube.svg"/>
             </Link>
-            <Link to="https://www.instagram.com/rccg_mps" target="_blank" rel="noopener noreferrer" >
+            <Link href="https://www.instagram.com/rccg_mps" target="_blank" rel="noopener noreferrer" >
               <Image width={"40px"} src="/instagram.svg"/>
             </Link>
           </Flex>
