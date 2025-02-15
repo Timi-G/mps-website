@@ -30,10 +30,10 @@ const Header = () => {
         <Flex display={{ lg: "flex", md: "flex", sm: "none", base: "none" }}>
           {/* <NavLink link="/" text="Home" /> */}
           <NavLink link="/about" text="About US" />
-          <NavLink link="/partnership" text="Partnership" />
+          {/* <NavLink link="/partnership" text="Partnership" /> */}
           <NavLink link="/giving" text="Giving" />
           <NavLink link="/media-archive" text="Media Archive" />
-          <NavLink link="/testimony" text="Testimony" />
+          {/* <NavLink link="/testimony" text="Testimony" /> */}
         </Flex>
         <Box
           display={{ lg: "none", md: "none", sm: "block", base: "block" }}
@@ -64,10 +64,10 @@ const Header = () => {
               <DrawerBody lineHeight={"40px"}>
                 <NavLink link="/" text="Home" />
                 <NavLink link="/about" text="About US" />
-                <NavLink link="/partnership" text="Partnership" />
+                {/* <NavLink link="/partnership" text="Partnership" /> */}
                 <NavLink link="/giving" text="Giving" />
                 <NavLink link="/media-archive" text="Media Archive" />
-                <NavLink link="/testimony" text="Testimony" />
+                {/* <NavLink link="/testimony" text="Testimony" /> */}
               </DrawerBody>
             </DrawerContent>
           </Drawer>

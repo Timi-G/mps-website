@@ -31,9 +31,9 @@ const Footer = () => {
             Follow Us On
           </Text>
           <Flex gap={5} mt={3}>
-            <Image width={"40px"} src="/facebook.svg"/>
-            <Image width={"40px"} src="/youtube.svg" />
-            <Image width={"40px"} src="/instagram.svg" />
+            <Image width={"40px"} src="/facebook.svg" href="https://www.facebook.com/rccgmps"/>
+            <Image width={"40px"} src="/youtube.svg" href="https://www.youtube.com/@rccgmps"/>
+            <Image width={"40px"} src="/instagram.svg" href="https://www.instagram.com/rccg_mps"/>
           </Flex>
         </Box>
         <Center>

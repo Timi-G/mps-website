@@ -58,7 +58,7 @@ const Pastors = () => {
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
               className="font-medium"
             >
-              Pastor
+              Associate Pastor
             </Text>
           </Box>
           <Box className="mb-5">
@@ -67,13 +67,13 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcns Queen
+              Dcns Queen Obazenu
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
               className="font-medium"
             >
-              HOD Evangelist
+              HOD Evangelism
             </Text>
           </Box>
           <Box className="mb-5">
@@ -155,7 +155,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Sis Esther Oyebode
+              Mrs Esther Ajayi
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -200,7 +200,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Bro Folusho
+              Bro Folusho Taiwo
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -215,7 +215,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Sis Rachel Owolabi
+              Sis Olayinka
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -280,7 +280,7 @@ const Pastors = () => {
               className="font-medium"
             ></Text>
           </Box>
-          <Box className="mb-5">
+          {/* <Box className="mb-5">
             <img src="/pastor18.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
@@ -295,7 +295,7 @@ const Pastors = () => {
               {" "}
               Asst. Sister's Cord
             </Text>
-          </Box>
+          </Box> */}
         </Box>
       </Box>
     </Box>
