@@ -1,10 +1,10 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "../pages/home";
 import About from "../pages/about";
-import Partnership from "../pages/partnership";
+// import Partnership from "../pages/partnership";
 import Giving from "../pages/Giving";
 import MediaArchive from "../pages/MediaArchive";
-import Testimony from "../pages/testimony";
+// import Testimony from "../pages/testimony";
 
 const Index = () => {
   return (
