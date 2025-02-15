@@ -67,7 +67,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcns Queen Obazenu
+              Queen Obazenu
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -82,7 +82,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcn Seyi Olukotun
+              Seyi Olukotun
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -97,7 +97,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcns Oluwatosin Adeyemi
+              Oluwatosin Adeyemi
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -106,26 +106,26 @@ const Pastors = () => {
               HOD Welfare
             </Text>
           </Box>
-          <Box className="mb-5">
+          {/* <Box className="mb-5">
             <img src="/pastor6.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcns Sola
+              Sola
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
               className="font-medium"
             ></Text>
-          </Box>
+          </Box> */}
           <Box className="mb-5">
             <img src="/pastor7.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Dcns Akintaro
+              Akintaro
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -134,7 +134,7 @@ const Pastors = () => {
               HOD Ushering Dept
             </Text>
           </Box>
-          <Box className="mb-5">
+          {/* <Box className="mb-5">
             <img src="/pastor8.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
@@ -148,14 +148,14 @@ const Pastors = () => {
             >
               HOD Media
             </Text>
-          </Box>
+          </Box> */}
           <Box className="mb-5">
             <img src="/pastor9.png" />
             <Text
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Mrs Esther Ajayi
+              Esther Ajayi
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -170,7 +170,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Bro Tayo Wayas
+              Tayo Wayas
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -185,7 +185,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Sis Timilehin Gbabijo
+              Timilehin Gbabijo
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -200,7 +200,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Bro Folusho Taiwo
+              Folusho Taiwo
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -215,7 +215,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Sis Olayinka
+              Olayinka
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -230,7 +230,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Bro Felix Ojo
+              Felix Ojo
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -243,7 +243,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              A/P Bisola Osas
+              Bisola Osas
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
@@ -258,7 +258,7 @@ const Pastors = () => {
               fontSize={{ lg: 24, md: 24, sm: 18, base: 18 }}
               className="font-medium"
             >
-              Sis Rachel Owolabi
+              Rachel Owolabi
             </Text>
             <Text
               fontSize={{ lg: 18, md: 18, sm: 12, base: 12 }}
